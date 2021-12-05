@@ -1,0 +1,63 @@
+[INFO ] 2021-12-05 20:06:15.483 [main] CommonMethods - Driver SetUp execution started
+[INFO ] 2021-12-05 20:06:20.417 [main] CommonMethods - The Driver is initialized
+[INFO ] 2021-12-05 20:06:20.421 [main] CommonMethods - Test 1 Execution started 
+[INFO ] 2021-12-05 20:06:20.882 [main] CommonMethods - Preparing payment with payment method Überweisung
+[INFO ] 2021-12-05 20:06:20.898 [main] CommonMethods - test Data :{firstName=test, lastName=testLastName, comments=Payment of 5 euros....., donationamountforbetterplace=0, donationamount=5, mailId=test@betterplace.org, paymentmethod=Überweisung, Scenario=Preparing payment with payment method Überweisung}
+[INFO ] 2021-12-05 20:06:20.949 [main] CommonMethods - Amount present default :50
+[INFO ] 2021-12-05 20:06:27.036 [main] CommonMethods - The donation form is filled with mandatory details..
+[INFO ] 2021-12-05 20:06:28.190 [main] CommonMethods -  Donation for better place Amount present default :1
+[INFO ] 2021-12-05 20:06:31.517 [main] CommonMethods - The donation form is submitted
+[INFO ] 2021-12-05 20:06:32.891 [main] CommonMethods - The total donation Amount :5.0
+[INFO ] 2021-12-05 20:06:32.891 [main] CommonMethods - The total amount donated5,0
+[INFO ] 2021-12-05 20:06:32.909 [main] CommonMethods - The total amount donated in screen Ich spende: 5,00 €
+[INFO ] 2021-12-05 20:06:32.934 [main] CommonMethods - The donation receipt is displayed with accurate details..
+[INFO ] 2021-12-05 20:06:34.116 [main] CommonMethods - Payment Labels :(_) Überweisung
+Daten zur Spende Als Firma spenden
+1Quicklinks
+ST
+Vorname* Nachname*
+E-Mail* ?
+Dein öffentlicher Kommentar (optional)
+Betrag anzeigen | ] Name anzeigen
+( Ja, ich möchte eine
+Spendenbescheinigung erhalten, um
+meine Spende von der Steuer
+abzusetzen.
+Freiwillige Unterstützung für
+betterplace
+betterplace ist gemeinnützig und arb?
+$_Q"iCkli"l($ Privacy - Terms
+Deplov DB ©Sidekia |Params Tailwind
+
+[INFO ] 2021-12-05 20:06:34.774 [main] CommonMethods - Driver Closed
+[INFO ] 2021-12-05 20:06:34.789 [main] CommonMethods - Driver SetUp execution started
+[INFO ] 2021-12-05 20:06:39.564 [main] CommonMethods - The Driver is initialized
+[INFO ] 2021-12-05 20:06:39.566 [main] CommonMethods - Test 1 Execution started 
+[INFO ] 2021-12-05 20:06:39.595 [main] CommonMethods - Preparing payment with payment method Überweisung
+[INFO ] 2021-12-05 20:06:39.596 [main] CommonMethods - test Data :{firstName=test, lastName=testLastName, comments=Payment of 5 euros....., donationamountforbetterplace=0, donationamount=5, mailId=test@betterplace.org, paymentmethod=Überweisung, Scenario=Preparing payment with payment method Überweisung}
+[INFO ] 2021-12-05 20:06:39.619 [main] CommonMethods - Amount present default :50
+[INFO ] 2021-12-05 20:06:45.670 [main] CommonMethods - The donation form is filled with mandatory details..
+[INFO ] 2021-12-05 20:06:46.851 [main] CommonMethods -  Donation for better place Amount present default :1
+[INFO ] 2021-12-05 20:06:50.207 [main] CommonMethods - The donation form is submitted
+[INFO ] 2021-12-05 20:06:51.291 [main] CommonMethods - The total donation Amount :5.0
+[INFO ] 2021-12-05 20:06:51.291 [main] CommonMethods - The total amount donated5,0
+[INFO ] 2021-12-05 20:06:51.309 [main] CommonMethods - The total amount donated in screen Ich spende: 5,00 €
+[INFO ] 2021-12-05 20:06:51.334 [main] CommonMethods - The donation receipt is displayed with accurate details..
+[INFO ] 2021-12-05 20:06:52.217 [main] CommonMethods - Payment Labels :(@) Payl ( )SEP. ( )Krec ( )giro ()Übe
+Last
+Daten zur Spende 1Quicklinks
+SW
+Vorname* Nachname*
+E-Mail* ?
+Dein öffentlicher Kommentar (optional)
+Betrag anzeigen | ] Name anzeigen
+( Ja, ich möchte eine
+Spendenbescheinigung erhalten, um
+meine Spende von der Steuer
+abzusetzen.
+Freiwillige Unterstützung für
+betterplace 5}
+$_Q"iCkli"l($ Privacy - Terms
+Deplov DB ©Sidekia |Params Tailwind
+
+[INFO ] 2021-12-05 20:06:52.891 [main] CommonMethods - Driver Closed

@@ -1,0 +1,17 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+
+  
+<suite name="BetterPlaceDonationFormAutomationTest" verbose="1"  >
+  <test name="TestScenarioSuccessFlow" >
+  <parameter name="url" value="https://www.bp42.com/de/donate/platform/projects/1114"></parameter>
+     <classes>
+       <class name="com.betterPlace.test.BetterPlaceMobileViewPointTest" />
+    </classes>
+  </test>
+  <test name="TestScenarioBugFlow" >
+  <parameter name="url" value="https://www.bp42.com/de/donate/platform/projects/1114?force-bug=1"></parameter>
+     <classes>
+       <class name="com.betterPlace.test.BetterPlaceMobileViewPointTest" />
+    </classes>
+  </test>
+</suite>
